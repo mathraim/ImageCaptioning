@@ -28,7 +28,7 @@ It was hard to operate with such a big data in my google drive so
 I had to divide the whole dataset into several pieces of 100000 images. 
 
 
-# Project structure#
+# Project structure
 
 * dataset - folder previously had all the h5 files for parts of train images and also csv files f the names of the images. 
 I deleted the image dataset after I go tall the feature vectors of all the images with InceptionV3 model
