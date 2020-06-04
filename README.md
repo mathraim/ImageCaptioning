@@ -50,5 +50,3 @@ Image_Captioning_tf2.ipynb file
 
 * Results.ipynb - the Google Colab to see the results of the imageCaptioning class and checkpoints
 
-* 
-
